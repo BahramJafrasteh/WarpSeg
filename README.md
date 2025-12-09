@@ -4,7 +4,7 @@
 
 > **Note:** This method is also available as a ready-to-use plugin for the **MELAGE** software suite.
 
-![WarpSeg Architecture](assets/figure_main.jpg)
+![WarpSeg Architecture](assets/figure_main.png)
 
 ## 🧠 Project Overview
 
@@ -53,11 +53,11 @@ We performed three specific comparisons using the Dice Similarity Coefficient (D
 
 As shown below, WarpSeg achieves competitive accuracy across major brain structures, robustly handling variability in input scans.
 
-![Dice Score Comparison for IXI](IXI_dice.png)
+![Dice Score Comparison for IXI](assets/IXI_dice.png)
 *(Refer to `IXI_dice.pdf` in the repository for the high-resolution vector version of this plot)*
 
 
-![Dice Score Comparison for OASIS dataset](OASIS_dice.png)
+![Dice Score Comparison for OASIS dataset](assets/OASIS_dice.png)
 *(Refer to `OASIS_dice.pdf` in the repository for the high-resolution vector version of this plot)*
 
 ---
